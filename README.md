@@ -1,7 +1,7 @@
 # project-1
 Tic-tac-tao
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
